@@ -1,4 +1,5 @@
 # file-squash
+[![CI](https://github.com/deepthi87-su/file-squash/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/deepthi87-su/file-squash/actions/workflows/maven-publish.yml)
 
 A CLI to for lossless compression of text files, employing the Huffman encoding technique written in Java.
 
