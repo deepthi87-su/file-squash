@@ -1,6 +1,6 @@
 # file-squash
 
-A CLI to compress and decompress files using Huffman encoding written in Java.
+A CLI to for lossless compression of text files, employing the Huffman encoding technique written in Java.
 
 ## Demo
 [![asciicast](https://asciinema.org/a/XI1P8ROvT8wSGiBSi5k0bJ6vA.svg)](https://asciinema.org/a/XI1P8ROvT8wSGiBSi5k0bJ6vA)
